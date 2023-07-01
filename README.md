@@ -1,5 +1,5 @@
 # Open-Econ-Courses-works
-This is a place to share my works on open Econ courses. This is aimed to record my learning path
+This is a place to share my works on open Econ courses, books and exercises. This is aimed to record my learning path
 
 **Course list**
 | Course      | Learning point | Status     |
