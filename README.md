@@ -1,9 +1,9 @@
-# Open-Econ-Courses-works
-This is a place to share my works on open Econ courses, books and exercises. This is aimed to record my learning path
+# Econ Learning
+Learning catalogs on Econ courses, books etc.
 
 **Course list**
-| Course      | Learning point | Status     | Works	|
-| :---        | :----          | :---       | :---	|
+| Course/Book      | Category | Status     |    Comments        |
+| :---        | :----          | :---       |   :---            |
 | [MIT 14.01 Principles Of Microeconomics](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2018/)      | Microeconomics | Not started     |
 | [MIT 14.02 Principles Of Macroeconomics](https://ocw.mit.edu/courses/14-02-principles-of-macroeconomics-spring-2014/)      | Macroeconomics | Not started     |
 | [MIT 14.04 Intermediate Microeconomic Theory](https://ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/)      | Microeconomics | Not started     |
